@@ -34,10 +34,12 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
 
 ### 🔑 *Tech/Framework Used*
 
+(참여한 과정 : ✔)
+
 - Crawing
-  - <u>**BeautifulSoup**</u>
+  - BeautifulSoup ✔
 - Model
-  - <u>**Multiple Linear Regression**</u>
+  - Multiple Linear Regression ✔
   - PCA Analysis
   - Neural Network
   - Random Forest 
