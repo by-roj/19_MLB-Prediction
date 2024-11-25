@@ -33,7 +33,7 @@ Predicting appropriate FA amounts based on statistical data of MLB players
 
 ### ◻ *Tech/Framework Used*
 
-(Participated : ✔)
+(Participated: ✔)
 
 - Crawing
   - BeautifulSoup ✔
